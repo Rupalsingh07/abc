@@ -129,7 +129,7 @@
 				<input type="checkbox" class="form-check-input" name="option" value="designing" id="l">DESIGNING<br>
 			<input type="checkbox" class="form-check-input" name="option" value="hacking"id="l" >HACKING<br>
 			<input type="checkbox" class="form-check-input" name="option" value="content writing" id="l">CONTENT WRITING<br>
-					<input type="checkbox" class="form-check-input" name="option" value="authoring" id="l">AUTHORING<br></ul></div>
+					<input type="checkbox" class="form-check-input" name="option" value="authoring" id="l">PUBLIC AUTHORING<br></ul></div>
 			
 			<div class="form-group">
 			<label for="textarea"><b>SUGGESTIONS:</b></label>
